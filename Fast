@@ -1,2 +1,0 @@
-cd $(cd $(dirname $0); pwd)
-lua5.2 Fast.lua
